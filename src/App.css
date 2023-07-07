@@ -88,6 +88,7 @@ button {
   background-color: var(--primary-color);
   transition: 0.5s;
   cursor: pointer;
+  outline: none;
 }
 button.sbtn{
   position: absolute;
@@ -98,7 +99,7 @@ button.sbtn{
 button.load{
   animation: lightning 1s ease-in-out infinite alternate;
 }
-button.load img{
+button.load svg{
   animation: spinning 1.5s ease-in-out infinite;
 }
 button.btn:hover,button.error-btn:hover{
