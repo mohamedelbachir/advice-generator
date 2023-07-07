@@ -23,12 +23,7 @@ Users should be able to:
 - Perform mathmatical operations like addition, subtraction, multiplication, and division
 - Adjust the color theme based on their preference
 - **Bonus**: Have their initial theme preference checked using `prefers-color-scheme` and have any additional changes saved in the browser
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+  
 ## My process
 
 ### Built with
